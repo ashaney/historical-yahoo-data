@@ -1,5 +1,5 @@
 """
-Code that grabs historcial data for a ticker from Yahoo! Finance
+Code that grabs historical data for a ticker from Yahoo! Finance
 It uses code from https://github.com/bradlucas/get-yahoo-quotes-python
 to assist with crumbs and cookies
 

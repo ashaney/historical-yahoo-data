@@ -4,6 +4,7 @@ It uses code from https://github.com/bradlucas/get-yahoo-quotes-python
 to assist with crumbs and cookies
 
 MIT License
+
 """
 
 import re, sys, time, requests, pickle
